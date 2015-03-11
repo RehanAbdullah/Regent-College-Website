@@ -1,0 +1,106 @@
+p
+{font-family: Tahoma;}
+h1
+{font-family: Tahoma;}
+h2
+{font-family: Tahoma;}
+
+
+#container  {width:1024px;
+             margin-left:auto;
+             margin-right:auto;
+             background-color: #fff;}
+#header
+{margin: 1px 1050px 1p 1px;
+}
+
+#heading
+{
+margin:20px 250px 75px 250px;
+background-color: silver;
+text-align: center;
+}
+
+#product1
+{
+
+border: 1px solid blue;
+margin: 20px 200px 20px 20px;
+padding:1px 70px 70px 50px;
+}
+
+#picture1
+{float: right;
+}
+
+h2 {
+color: black;
+background-color: red;
+}
+
+#product2
+{
+
+border: 1px solid blue;
+margin:20px 200px 20px 20px;
+padding :1px 70px 70px 50px;
+}
+
+#heading
+{
+margin:20px 250px 75px 250px;
+background-color: silver;
+text-align: center;
+}
+}
+
+#picture2
+{float: left;
+}
+
+#product3
+{
+border: 1px solid blue;
+margin: 20px 200px 20px 20px;
+padding:1px 70px 70px 50px;
+}
+
+#picture3
+{float: right;
+}
+
+
+#product4
+{
+border: 1px solid blue;
+margin: 20px 200px 20px 20px;
+padding: 1px 70px 90px 50px;
+}
+
+#picture4
+{float: left;
+}
+
+
+#product5
+{
+border: 1px solid blue;
+margin: 20px 200px 20px 20px;
+padding: 1px 70px 70px 50px;
+}
+
+#picture5
+{float: right;
+}
+
+
+#product6
+{
+border: 1px solid blue;
+margin: 20px 200px 20px 20px;
+padding:1px 70px 70px 50px; 
+}
+
+#picture6
+{float: left;
+}
